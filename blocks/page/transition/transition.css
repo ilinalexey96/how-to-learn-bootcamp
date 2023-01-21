@@ -1,0 +1,7 @@
+.transition {
+    transition: opacity .5s ease-in;
+}
+
+.transition:hover {
+    opacity: 0.4;
+}
