@@ -3,7 +3,7 @@
     width: 568px;
     position: absolute;
     background-color:#2f80ed;
-    z-index: 0;
+    z-index: -1;
     right: 0;
     top: 64px;
     margin: 0px;
